@@ -6,7 +6,8 @@ Colorscheme is from myself but the theme in use is Asphalt-monochrome.subltime-t
 
      # For syntax colors:
      Download the wuseman.tmTheme file
-     Copy the tmTheme file into: ~/.config/sublime-text-3/Packages/User/'
+     copy the tmTheme file into: ~/.config/sublime-text-3/Packages/User/
+     You will now be able to use my color scheme by press Preferences/ColorScheme in toolbar
      That's it!
 
      # For theme:
