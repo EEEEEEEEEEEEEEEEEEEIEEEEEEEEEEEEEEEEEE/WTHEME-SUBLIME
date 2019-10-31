@@ -23,7 +23,7 @@ Colorscheme is from myself but the theme in use is Asphalt-monochrome.subltime-t
 ![Screenshot](.previews/wuseman.tmTheme.png)
 
 #### wuseman_green.tmTheme (Green+White)
-![Screenshot](.previews/#### wuseman_green.tmTheme
+![Screenshot](.previews/wuseman_green.tmTheme)
 
 ## Authors: 
 
