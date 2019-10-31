@@ -1,4 +1,4 @@
-# SUBLIME 
+# WTHEME-SUBLIME
 
 My color configuration for Sublime text editor. Modded for .sh syntaxes only
 
@@ -9,7 +9,6 @@ Colorscheme is from myself but the theme in use is Asphalt-monochrome.subltime-t
      Hit ctrl+shift again
      Search for install and choose Package Control: Install Package
      Now search for the asphalt theme or simply just use default and use my colorscheme.
-
 
 ## Preview
 
