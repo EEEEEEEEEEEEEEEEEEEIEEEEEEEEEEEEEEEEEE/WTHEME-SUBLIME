@@ -13,7 +13,7 @@ Colorscheme is from myself but the theme in use is Asphalt-monochrome.subltime-t
 
 ## Preview
 
-[Screenshot](.previews/wuseman.tmTheme.png)
+![Screenshot](.previews/wuseman.tmTheme.png)
 
 ## Authors: 
 
