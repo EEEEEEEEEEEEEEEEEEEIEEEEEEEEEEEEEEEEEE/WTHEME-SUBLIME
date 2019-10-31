@@ -17,9 +17,13 @@ Colorscheme is from myself but the theme in use is Asphalt-monochrome.subltime-t
      Search for install and choose Package Control: Install Package
      Now search for the asphalt theme or simply just use default and use my colorscheme.
 
-## Preview
+## Previews
 
+#### wuseman.tmTheme (Purple+Green+White)
 ![Screenshot](.previews/wuseman.tmTheme.png)
+
+#### wuseman_green.tmTheme (Green+White)
+![Screenshot](.previews/#### wuseman_green.tmTheme
 
 ## Authors: 
 
