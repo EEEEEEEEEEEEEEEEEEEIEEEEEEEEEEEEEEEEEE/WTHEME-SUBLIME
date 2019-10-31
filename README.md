@@ -4,6 +4,12 @@ My color configuration for Sublime text editor. Modded for .sh syntaxes only
 
 Colorscheme is from myself but the theme in use is Asphalt-monochrome.subltime-theme, install this theme via package control
 
+     # For syntax colors:
+     Download the wuseman.tmTheme file
+     Copy the tmTheme file into: ~/.config/sublime-text-3/Packages/User/'
+     That's it!
+
+     # For theme:
      Press ctrl+shift
      Install Package Control
      Hit ctrl+shift again
